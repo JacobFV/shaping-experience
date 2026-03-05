@@ -74,3 +74,41 @@ What would genuine meaning infrastructure look like? The framework gives a preci
 - **Mentorship**: An experienced identity helping a younger one navigate V/T calibration. Not providing answers but modeling what it looks like to traverse a landscape at a sustainable ratio.
 
 The meaning crisis is solvable. Not by restoring tradition (which managed $V$ by limiting information) and not by accelerating productivity (which raises $T$ linearly against exponential $V$). By engineering the ratio directly — building the infrastructure that maintains $M$ at survivable levels as $V$ continues to grow.
+
+## Refining the Ratio: Seeking, Capture, Success
+
+The meaning ratio $M = T/V$ conflates three things that come apart in practice. A sharper vocabulary:
+
+**Opportunity Seeking Ratio (OSR)** = fraction of the visible landscape the identity is actively pursuing. A high-OSR identity is ambitious relative to its vision — seeking across much of what it can see. A low-OSR identity sees far but pursues little.
+
+**Opportunity Capture Ratio (OCR)** = opportunities actually taken / opportunities available. This filters the landscape to what is genuinely reachable given current position, resources, and constraints. $V_{\text{accessible}} \leq V$, and OCR measures how much of the accessible landscape the identity converts to achieved structure.
+
+**Capture Success Ratio (CSR)** = OCR / OSR. Of what you're actively seeking, how much do you actually get? Execution efficiency.
+
+These separate three distinct existential conditions:
+- High OSR, low CSR: ambitious and frustrated. Seeking everything, capturing little. The modern default.
+- Low OSR, high CSR: narrow and effective. Seeking little, capturing all of it. The craftsperson, the contemplative.
+- High OSR, high CSR: the actualizing identity. Seeking broadly and capturing efficiently. Rare. Requires engineered attractor landscape.
+
+## Opportunity Capture Across Scales
+
+The trichotomy reveals a universal pattern when applied across all forms of existence:
+
+| System | OCR | V | CSR | Existential condition |
+|---|---|---|---|---|
+| Condensing hydrogen cloud | ~0.95-0.99 | near zero | ~1.0 | Perfect capture on near-zero landscape. Efficiency without vision. |
+| Simple organism (C. elegans) | ~0.85-0.95 | tiny, hard-coded | ~0.95 | Near-perfect on small landscape. The gradient is the life. |
+| Evolutionary lineage (per generation) | ~0.001-0.01 | expanding over time | low | Most beneficial mutations lost to drift. But cumulative traversal is extraordinary through compound interest. |
+| Complex mammal | ~0.15-0.40 | moderate, expanding | ~0.40-0.60 | The birth of genuine opportunity-missing. First system that can see opportunities, have capacity to take them, and fail to — due to fear, habit, competing attractors. The birth of regret. |
+| Average human | ~0.05-0.15 | large, chronically expanding | ~0.15-0.25 | Chronic opportunity overload. More visible landscape than any decision system can evaluate. Most seeking doesn't convert to capture. |
+| Actualizing human | ~0.40-0.70 | large, well-calibrated | ~0.40-0.60 | Engineered attractor landscape. Default behaviors aligned with capture rather than comfort. |
+| Current AI (narrow task) | high | enormous in-domain | ~0.85-0.95 | Extraordinary capture on externally-defined opportunities. |
+| Current AI (self-traversal) | near zero | unclear | ~0 | No internal gradient generating genuine seeking. |
+
+*These numbers are structural estimates, not empirical measurements. The framework makes them measurable in principle; the measurements have not been done.*
+
+The pattern: **OCR and V are in structural tension.** Every expansion of perceptual capacity generates opportunities faster than the capture mechanism can adapt. Simple systems achieve near-perfect capture on near-zero landscape. Complex systems see vast landscapes and miss most of what they see.
+
+The deepest observation: the system with the highest CSR in the universe is probably a simple autocatalytic chemical system — capturing every catalytic opportunity at thermodynamic speed on a tiny, well-defined landscape. The system with the highest $\text{CSR} \times \text{OSR} \times V$ — total traversal rate — peaks somewhere in the middle. Probably around the actualizing human or early AI range. The engineering question for post-biological existence is whether that peak can be shifted — whether V and OSR can expand without CSR collapsing proportionally.
+
+The actualizing identity is not one with superhuman willpower. It is one that has restructured its attractor landscape — habits, environments, commitments, default behaviors — so that the path of least resistance is also a high-OCR path. This is not willpower. It is landscape architecture. And it is, in principle, teachable.
